@@ -21,6 +21,7 @@ Geetanshi-IC-2k22-34/
 │
 ├── cluster03-AudioProcessing/      # Audio Processing
 │   ├── Audio.py                    # Audio file metadata analyzer (using FFprobe)
+│   ├── AudioCloning.py             # Voice cloning, acoustic feature extraction & timbre transfer
 │   └── WhatsApp Ptt *.opus         # Test audio sample file
 │
 ├── cluster04-Vedio-Analyser/       # Video Analysis
@@ -67,7 +68,8 @@ Geetanshi-IC-2k22-34/
 
 ### 3. cluster03-AudioProcessing
 * **`Audio.py`**: Extracts and analyzes detailed audio file metadata using `ffprobe` (including Duration, Bit Rate, Sample Rate, Channels, Codec, and Metadata Tags).
-* **Sample Audio**: Test voice recording for audio analysis.
+* **`AudioCloning.py`**: Performs voice cloning and timbre transfer by extracting pitch contours ($F_0$), formant/spectral envelopes, and applying spectral morphing to synthesize cloned speech with quantitative evaluation and comparison plots.
+* **Sample Audio**: Test voice recording for audio analysis and cloning experiments.
 
 ---
 
@@ -134,4 +136,8 @@ pip install numpy matplotlib opencv-python pillow
 * **Audio Metadata Analyzer:**
   ```bash
   python cluster03-AudioProcessing/Audio.py
+  ```
+* **Voice / Audio Cloning:**
+  ```bash
+  python cluster03-AudioProcessing/AudioCloning.py
   ```
