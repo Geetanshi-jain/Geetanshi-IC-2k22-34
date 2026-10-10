@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment file (API keys - sensitive!)
+.env
+
+# Test output files generated during testing
+*_optimized*.webp
+*_optimized*.jpeg
+test_optimized_output.webp
+
+# WhatsApp audio (personal file)
+WhatsApp Ptt*.ogg
