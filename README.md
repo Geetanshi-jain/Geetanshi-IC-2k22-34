@@ -8,8 +8,8 @@ Watch the complete MM Lab test 1 demonstration here:
 
 [▶️ Watch Test 1 task vedio on YouTube](https://youtu.be/Q21cA68gjKk?si=CJSNEQ5r75vVBYoS)
 ## MM Lab Test 2 – Apple Catcher Game
+[▶️ Watch Test 2 task vedio on YouTube]((https://youtu.be/JDUmFDclimI?si=qJJvDZw7euSLs1KP))
 
-**Video Link:** https://youtu.be/JDUmFDclimI?si=qJJvDZw7euSLs1KP
 ---
 
 ## 📁 Folder Structure
