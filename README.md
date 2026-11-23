@@ -10,6 +10,7 @@ Watch the complete MM Lab test 1 demonstration here:
 
 ## MM Lab Test 2 – Apple Catcher Game
 **Video Link:** https://youtu.be/JDUmFDclimI?si=qJJvDZw7euSLs1KP
+[🔗 View Test 2 GitHub Repository](https://github.com/Geetanshi-jain/MM_Lab_Test_2_Apple_Catcher_IC_2k22_34)
 ---
 
 ## 📁 Folder Structure
